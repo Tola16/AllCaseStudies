@@ -676,3 +676,4 @@ C:\Users\Dola Ahmed\Desktop\MVC\Clinic\ClinicSystem\ClinicSystem\obj\Debug\net10
 C:\Users\Dola Ahmed\Desktop\MVC\Clinic\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.pdb
 C:\Users\Dola Ahmed\Desktop\MVC\Clinic\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.genruntimeconfig.cache
 C:\Users\Dola Ahmed\Desktop\MVC\Clinic\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ref\ClinicSystem.dll
+C:\Users\Dola Ahmed\Desktop\MVC\Clinic\ClinicSystem\ClinicSystem\obj\Debug\net10.0\ClinicSystem.sourcelink.json

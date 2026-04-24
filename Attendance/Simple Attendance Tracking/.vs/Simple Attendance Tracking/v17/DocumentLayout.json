@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\attendancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\attendancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\iattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\iattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Migrations\\20260406073230_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Simple Attendance Tracking\\Migrations\\20260406073230_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\student\\delete2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\student\\delete2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\subjectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\subjectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\models\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\models\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\attendance\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\attendance\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\views\\subject\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\views\\subject\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Attendance/True/SqlTable/dbo.Subjects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Attendance/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|c:\\users\\marawan.hazem\\source\\repos\\simple attendance tracking\\simple attendance tracking\\migrations\\20260405100255_iii222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E9BACF-812B-462A-B003-6B308B5A6EAF}|Simple Attendance Tracking\\Simple Attendance Tracking.csproj|solutionrelative:simple attendance tracking\\migrations\\20260405100255_iii222.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 659,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\IStudent.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\IStudent.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\IStudent.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T06:59:18.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\StudentRepo.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\StudentRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:05:31.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\AttendanceRepo.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\AttendanceRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\AttendanceRepo.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\AttendanceRepo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:09:16.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Program.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Program.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Program.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:29:20.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\IAttendance.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\IAttendance.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\IAttendance.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\IAttendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:08:35.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:11:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VM.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\VM.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\VM.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\VM.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\VM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:07:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:18:36.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\Student.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:12:48.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\Context.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\Context.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:16:13.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\Attendance.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:14:00.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Attendance\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Attendance\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Attendance\\Index.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Attendance\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T10:48:01.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\Subject.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:13:27.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T13:22:27.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\appsettings.json",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\appsettings.json",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\appsettings.json",
+              "RelativeToolTip": "Simple Attendance Tracking\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-06T07:33:06.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\appsettings.Development.json",
+              "RelativeToolTip": "Simple Attendance Tracking\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-06T07:30:48.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260406073230_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Migrations\\20260406073230_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Migrations\\20260406073230_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Migrations\\20260406073230_InitialCreate.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Migrations\\20260406073230_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:32:30.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete2.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Student\\Delete2.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Student\\Delete2.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Student\\Delete2.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Student\\Delete2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T07:29:05.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T07:28:24.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T07:27:37.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-06T07:27:04.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SubjectRepo.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\SubjectRepo.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\SubjectRepo.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\SubjectRepo.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\SubjectRepo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:07:53.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\ISubject.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Models\\ISubject.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Models\\ISubject.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Models\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:02:47.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Subject\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Subject\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Subject\\Index.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Subject\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T10:35:50.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Attendance\\Create.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Attendance\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Attendance\\Create.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Attendance\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T10:48:31.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Attendance\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Attendance\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Attendance\\Edit.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Attendance\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T10:51:31.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Attendance\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Attendance\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Attendance\\Delete.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Attendance\\Delete.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T11:03:21.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Subject\\Create.cshtml",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Views\\Subject\\Create.cshtml",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Views\\Subject\\Create.cshtml",
+              "RelativeToolTip": "Simple Attendance Tracking\\Views\\Subject\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-05T10:36:22.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.Subjects.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Attendance/True/SqlTable/dbo.Subjects.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Attendance/True/SqlTable/dbo.Subjects.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-05T10:04:52.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.Students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Attendance/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__marwanhazem/Real_Attendance/True/SqlTable/dbo.Students.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-05T10:03:19.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260405100255_iii222.cs",
+              "DocumentMoniker": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Migrations\\20260405100255_iii222.cs",
+              "RelativeDocumentMoniker": "Simple Attendance Tracking\\Migrations\\20260405100255_iii222.cs",
+              "ToolTip": "C:\\Users\\marawan.hazem\\source\\repos\\Simple Attendance Tracking\\Simple Attendance Tracking\\Migrations\\20260405100255_iii222.cs",
+              "RelativeToolTip": "Simple Attendance Tracking\\Migrations\\20260405100255_iii222.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:02:56.274Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

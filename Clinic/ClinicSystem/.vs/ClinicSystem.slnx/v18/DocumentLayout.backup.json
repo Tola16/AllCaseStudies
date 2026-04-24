@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -33,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\controllers\\paitentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\repos\\implementation\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -101,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|solutionrelative:clinicsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{073C296A-439F-7F87-661C-4C75E7A6364F}|ClinicSystem\\ClinicSystem.csproj|c:\\users\\dola ahmed\\desktop\\mvc\\clinic\\clinicsystem\\clinicsystem\\clinicsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -126,23 +126,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ClinicSystem\\Views\\Appointment\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Edit.cshtml",
-              "RelativeToolTip": "ClinicSystem\\Views\\Appointment\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Details.cshtml",
+              "RelativeDocumentMoniker": "ClinicSystem\\Views\\Appointment\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Details.cshtml",
+              "RelativeToolTip": "ClinicSystem\\Views\\Appointment\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T09:08:47.733Z"
+              "WhenOpened": "2026-04-24T09:07:54.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicSystem\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "ClinicSystem\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T09:07:16.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentVm.cs",
+              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\ViewModels\\AppointmentVm.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\ViewModels\\AppointmentVm.cs",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\ViewModels\\AppointmentVm.cs",
+              "RelativeToolTip": "ClinicSystem\\ViewModels\\AppointmentVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T09:00:00.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "ClinicSystem\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwF0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:58:13.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClinicSystem\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "ClinicSystem\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T08:42:00.209Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Doctor.cs",
+              "RelativeToolTip": "ClinicSystem\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:13:50.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Patient.cs*",
+              "RelativeToolTip": "ClinicSystem\\Models\\Patient.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:15:07.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicSystem\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Appointment.cs",
+              "RelativeToolTip": "ClinicSystem\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:15:54.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Create.cshtml",
               "RelativeDocumentMoniker": "ClinicSystem\\Views\\Appointment\\Create.cshtml",
@@ -155,67 +243,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Details.cshtml",
-              "RelativeDocumentMoniker": "ClinicSystem\\Views\\Appointment\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Details.cshtml",
-              "RelativeToolTip": "ClinicSystem\\Views\\Appointment\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ClinicSystem\\Views\\Appointment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Edit.cshtml",
+              "RelativeToolTip": "ClinicSystem\\Views\\Appointment\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T09:07:54.965Z"
+              "WhenOpened": "2026-04-24T09:08:47.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Index.cshtml",
-              "RelativeDocumentMoniker": "ClinicSystem\\Views\\Appointment\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Appointment\\Index.cshtml",
-              "RelativeToolTip": "ClinicSystem\\Views\\Appointment\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T09:07:16.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppointmentVm.cs",
-              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\ViewModels\\AppointmentVm.cs",
-              "RelativeDocumentMoniker": "ClinicSystem\\ViewModels\\AppointmentVm.cs",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\ViewModels\\AppointmentVm.cs",
-              "RelativeToolTip": "ClinicSystem\\ViewModels\\AppointmentVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T09:00:00.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppointmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Controllers\\AppointmentController.cs",
-              "RelativeDocumentMoniker": "ClinicSystem\\Controllers\\AppointmentController.cs",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Controllers\\AppointmentController.cs",
-              "RelativeToolTip": "ClinicSystem\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAwF0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T08:58:13.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Doctor\\Create.cshtml",
-              "RelativeDocumentMoniker": "ClinicSystem\\Views\\Doctor\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Doctor\\Create.cshtml",
-              "RelativeToolTip": "ClinicSystem\\Views\\Doctor\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T08:42:00.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PaitentController.cs",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Controllers\\PaitentController.cs",
               "RelativeDocumentMoniker": "ClinicSystem\\Controllers\\PaitentController.cs",
@@ -227,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Doctor\\Index.cshtml",
               "RelativeDocumentMoniker": "ClinicSystem\\Views\\Doctor\\Index.cshtml",
@@ -239,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Patient\\Edit.cshtml",
               "RelativeDocumentMoniker": "ClinicSystem\\Views\\Patient\\Edit.cshtml",
@@ -251,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Patient\\Index.cshtml",
               "RelativeDocumentMoniker": "ClinicSystem\\Views\\Patient\\Index.cshtml",
@@ -263,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "ClinicSystem\\Controllers\\DoctorController.cs",
@@ -275,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Patient\\Create.cshtml",
               "RelativeDocumentMoniker": "ClinicSystem\\Views\\Patient\\Create.cshtml",
@@ -287,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Patient\\Details.cshtml",
               "RelativeDocumentMoniker": "ClinicSystem\\Views\\Patient\\Details.cshtml",
@@ -299,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Doctor\\Edit.cshtml",
               "RelativeDocumentMoniker": "ClinicSystem\\Views\\Doctor\\Edit.cshtml",
@@ -311,19 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "ClinicSystem\\Models\\Appointment.cs",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Appointment.cs",
-              "RelativeToolTip": "ClinicSystem\\Models\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T08:15:54.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "PatientRepo.cs",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Repos\\Implementation\\PatientRepo.cs",
               "RelativeDocumentMoniker": "ClinicSystem\\Repos\\Implementation\\PatientRepo.cs",
@@ -359,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Program.cs",
               "RelativeDocumentMoniker": "ClinicSystem\\Program.cs",
@@ -371,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ClinicSystem\\Models\\AppDbContext.cs",
@@ -383,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "AppointmentRepo.cs",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Repos\\Implementation\\AppointmentRepo.cs",
               "RelativeDocumentMoniker": "ClinicSystem\\Repos\\Implementation\\AppointmentRepo.cs",
@@ -395,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "DoctorRepo.cs",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Repos\\Implementation\\DoctorRepo.cs",
               "RelativeDocumentMoniker": "ClinicSystem\\Repos\\Implementation\\DoctorRepo.cs",
@@ -407,19 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "ClinicSystem\\Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Patient.cs",
-              "RelativeToolTip": "ClinicSystem\\Models\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T08:15:07.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\appsettings.json",
               "RelativeDocumentMoniker": "ClinicSystem\\appsettings.json",
@@ -431,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IGenericRepo.cs",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Repos\\Interface\\IGenericRepo.cs",
               "RelativeDocumentMoniker": "ClinicSystem\\Repos\\Interface\\IGenericRepo.cs",
@@ -443,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ClinicSystem\\Views\\Shared\\_Layout.cshtml",
@@ -452,18 +467,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-24T08:19:32.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "ClinicSystem\\Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Doctor.cs",
-              "RelativeToolTip": "ClinicSystem\\Models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T08:13:50.014Z"
             },
             {
               "$type": "Document",
