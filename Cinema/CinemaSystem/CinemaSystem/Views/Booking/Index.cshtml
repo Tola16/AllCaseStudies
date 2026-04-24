@@ -1,0 +1,57 @@
+﻿@model CinemaSystem.ViewModels.BookingVM 
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <select name="userId" asp-items="@(new SelectList(Model.users, "Id", "Name"))" class="form-control">
+        <option value="0">All Users</option>
+    </select>
+
+    <select name="showTimeId" asp-items="@(new SelectList(Model.showimes, "Id", "StartShow"))" class="form-control">
+        <option value="0">All Times</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Booking Date</th>
+            <th>Seats</th>
+            <th>User</th>
+            <th>Show Time</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.bb) {
+        <tr>
+            <td>
+                @item.BokkiingDate
+            </td>
+            <td>
+                @item.NumberOfSeats
+            </td>
+            <td>
+                @item.User?.Name 
+            </td>
+            <td>
+                @item.ShowTime?.StartShow
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
