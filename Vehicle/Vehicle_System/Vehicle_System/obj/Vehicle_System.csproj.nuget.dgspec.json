@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dola Ahmed\\source\\repos\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj": {}
+    "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dola Ahmed\\source\\repos\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj": {
+    "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dola Ahmed\\source\\repos\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
+        "projectUniqueName": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
         "projectName": "Vehicle_System",
-        "projectPath": "C:\\Users\\Dola Ahmed\\source\\repos\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
+        "projectPath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
         "packagesPath": "C:\\Users\\Dola Ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dola Ahmed\\source\\repos\\Vehicle_System\\Vehicle_System\\obj\\",
+        "outputPath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

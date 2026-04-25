@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BVVaJ58NwKA=",
+  "dgSpecHash": "r2d/WhRnTq4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dola Ahmed\\source\\repos\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
+  "projectFilePath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dola Ahmed\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Dola Ahmed\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -129,5 +129,30 @@
     "C:\\Users\\Dola Ahmed\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.4\\system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
     "C:\\Users\\Dola Ahmed\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
+      "libraryId": "NuGet.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "projectPath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Vehicle\\Vehicle_System\\Vehicle_System\\Vehicle_System.csproj",
+      "libraryId": "NuGet.Protocol",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

@@ -150,8 +150,7 @@
               "RelativeToolTip": "ClinicSystem\\Views\\Appointment\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T09:07:16.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T09:07:16.722Z"
             },
             {
               "$type": "Document",
@@ -199,8 +198,7 @@
               "RelativeToolTip": "ClinicSystem\\Models\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T08:13:50.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T08:13:50.014Z"
             },
             {
               "$type": "Document",
@@ -208,8 +206,8 @@
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "ClinicSystem\\Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Patient.cs*",
-              "RelativeToolTip": "ClinicSystem\\Models\\Patient.cs*",
+              "ToolTip": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\Clinic\\ClinicSystem\\ClinicSystem\\Models\\Patient.cs",
+              "RelativeToolTip": "ClinicSystem\\Models\\Patient.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T08:15:07.748Z",
@@ -225,8 +223,7 @@
               "RelativeToolTip": "ClinicSystem\\Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T08:15:54.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T08:15:54.743Z"
             },
             {
               "$type": "Document",

@@ -9,6 +9,8 @@ namespace Vehicle_System.Models
             public int UserId { get; set; }
 
             [Required]
+            [MinLength(5)]
+            [MaxLength(5)]
             public string ? Name { get; set; }
 
             [Required]

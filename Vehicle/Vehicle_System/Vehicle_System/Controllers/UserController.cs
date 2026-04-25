@@ -27,8 +27,6 @@ namespace Vehicle_System.Controllers
 
             public IActionResult Create()
             {
-          
-
                return View();
             }
         [HttpPost]
