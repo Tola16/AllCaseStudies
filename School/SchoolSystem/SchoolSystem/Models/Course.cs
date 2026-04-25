@@ -5,7 +5,7 @@ namespace SchoolSystem.Models
     public class Course
     {
         [Key]
-        public int Id { get; set; }
+        public int CourseId { get; set; }
         [Required]
         [StringLength(100)]
         public string Title { get; set; }

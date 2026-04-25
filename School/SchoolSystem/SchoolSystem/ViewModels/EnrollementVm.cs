@@ -14,7 +14,11 @@ namespace SchoolSystem.ViewModels
         public List<Student> Students { get; set; } = new List<Student>();
         [NotMapped]
         public List<Course> Courses { get; set; } = new List<Course>();
+      
+
         public int StudentId { get; set; }
+       
+
         public int CourseId { get; set; }
 
         public DateOnly DateTime { get; set; }

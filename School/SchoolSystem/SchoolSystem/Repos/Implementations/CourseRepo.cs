@@ -17,7 +17,7 @@ namespace SchoolSystem.Repos.Implementations
         public List<Course> GetAll() => db.Courses.Include(a => a.Enrollments).ToList();
 
         public Course GetById(int id) => db.Courses.Include(a => a.Enrollments).
-            FirstOrDefault(a => a.Id == id);
+            FirstOrDefault(a => a.CourseId == id);
 
 
         public void Save() => db.SaveChanges();

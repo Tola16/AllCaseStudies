@@ -3,22 +3,24 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SchoolSystem.Models
 {
+
     public class Enrollment
     {
         [Key]
         public int Id { get; set; }
-             [Required] 
-     
-    [DataType(DataType.Date)]
-        public int StudentId { get; set; }
-        [ForeignKey("Student")]
-        public int CourseId { get; set; }
-        [ForeignKey("Course")]
 
-        [DataType(DataType.Date)]
+        [Required]
+        public int StudentId { get; set; }
+
+        [ForeignKey("StudentId")]
+        public Student Student { get; set; }
+
+        [Required]
+        public int CourseId { get; set; }
+
+        [ForeignKey("CourseId")]
+        public Course Course { get; set; }
 
         public DateOnly RegisterDate { get; set; }
-        public Student Student { get; set; }
-        public Course Course { get; set; }
     }
 }

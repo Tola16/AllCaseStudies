@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OK/Q/VhqOwA=",
+  "dgSpecHash": "7PcYEBmT5wo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dola Ahmed\\source\\repos\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
+  "projectFilePath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\School\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dola Ahmed\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Dola Ahmed\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
@@ -134,9 +134,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\Dola Ahmed\\source\\repos\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
+      "projectPath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\School\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Dola Ahmed\\source\\repos\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
+      "filePath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\School\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -146,9 +146,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\Dola Ahmed\\source\\repos\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
+      "projectPath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\School\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Dola Ahmed\\source\\repos\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
+      "filePath": "C:\\Users\\Dola Ahmed\\Desktop\\MVC\\School\\SchoolSystem\\SchoolSystem\\SchoolSystem.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"

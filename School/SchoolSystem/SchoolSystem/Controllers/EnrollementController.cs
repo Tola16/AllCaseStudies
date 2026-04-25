@@ -41,6 +41,7 @@ namespace SchoolSystem.Controllers
                 Courses = _courserepo.GetAll(),
                 Students = _studentrepo.GetAll(),
             };
+
             return View(vm);
         }
 
@@ -49,13 +50,12 @@ namespace SchoolSystem.Controllers
         {
             var vm = new Enrollment()
             {
-                Id = enrollementVm.id,
-
-                CourseId = enrollementVm.CourseId,
-                RegisterDate = enrollementVm.DateTime,
+              CourseId = enrollementVm.CourseId,
+               RegisterDate = enrollementVm.DateTime,
                 StudentId = enrollementVm.StudentId,
-
+                 
             };
+                            
             _enrollementrepo.Add(vm);
             _enrollementrepo.Save();
             return RedirectToAction("Index");
@@ -77,10 +77,10 @@ namespace SchoolSystem.Controllers
         {
             var vm = new Enrollment()
             {
+                Id = enrollementVm.id, 
                 CourseId = enrollementVm.CourseId,
-                RegisterDate = enrollementVm.DateTime,
                 StudentId = enrollementVm.StudentId,
-
+                RegisterDate = enrollementVm.DateTime
             };
             _enrollementrepo.Update(vm);
             _enrollementrepo.Save();
