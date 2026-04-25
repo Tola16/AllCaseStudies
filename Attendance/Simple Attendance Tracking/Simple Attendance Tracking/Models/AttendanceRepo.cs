@@ -5,13 +5,9 @@ namespace Simple_Attendance_Tracking.Models
     public class AttendanceRepo : IAttendance
     {
         public readonly Context c;
-        public AttendanceRepo()
+        public AttendanceRepo(Context _c)
         {
-            c = new Context();
-        }
-        public List<Attendance> GetAll()
-        {
-            return c.Attendances.Include(a => a.Student).Include(Student => Student.Subject).ToList();
+            c = _c;
         }
         public Attendance GetById(int id)
         {
@@ -51,8 +47,11 @@ namespace Simple_Attendance_Tracking.Models
             }
         }
 
-  
+        public List<Attendance> GetAll(int? studentId, int? subjectId)
+        {
+            var attendances = c.Attendances.Where(a => (studentId == null ? true : a.StudentId == studentId) && (subjectId == null ? true : a.SubjectId == subjectId)).Include(a => a.Student).Include(a => a.Subject).ToList();
 
-    
+            return attendances;
+        }
     }
 }

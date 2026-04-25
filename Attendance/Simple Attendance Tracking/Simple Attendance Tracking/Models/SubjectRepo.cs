@@ -3,9 +3,9 @@
     public class SubjectRepo : ISubject
     {
         public readonly Context c;
-        public SubjectRepo()
+        public SubjectRepo(Context _c)
         {
-            c = new Context();
+            c = _c;
         }
         public List<Subject> GetAll()
         {

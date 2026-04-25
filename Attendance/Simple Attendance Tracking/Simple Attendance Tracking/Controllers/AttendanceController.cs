@@ -17,10 +17,17 @@ namespace Simple_Attendance_Tracking.Controllers
         }
 
         // GET: Index
-        public ActionResult Index()
+        public ActionResult Index(int? studentId,int? subjectId)
         {
-            var a = _attendanceRepo.GetAll();
-            return View(a);
+
+            var vm = new VM()
+            {
+                Attendances = _attendanceRepo.GetAll(studentId, subjectId),
+                Subjects = _subjectRepo.GetAll(),
+                Students = _studentRepo.GetAll(),
+            };
+
+            return View(vm);
         }
 
         // GET: Create

@@ -7522,23 +7522,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dola Ahmed\\.nuget\\packages\\": {},
+    "C:\\Users\\HP-MCC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dola Ahmed\\Desktop\\All-Projects\\Simple Attendance Tracking\\Simple Attendance Tracking\\Simple Attendance Tracking.csproj",
+      "projectUniqueName": "D:\\AllCaseStudies\\Attendance\\Simple Attendance Tracking\\Simple Attendance Tracking\\Simple Attendance Tracking.csproj",
       "projectName": "Simple Attendance Tracking",
-      "projectPath": "C:\\Users\\Dola Ahmed\\Desktop\\All-Projects\\Simple Attendance Tracking\\Simple Attendance Tracking\\Simple Attendance Tracking.csproj",
-      "packagesPath": "C:\\Users\\Dola Ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dola Ahmed\\Desktop\\All-Projects\\Simple Attendance Tracking\\Simple Attendance Tracking\\obj\\",
+      "projectPath": "D:\\AllCaseStudies\\Attendance\\Simple Attendance Tracking\\Simple Attendance Tracking\\Simple Attendance Tracking.csproj",
+      "packagesPath": "C:\\Users\\HP-MCC\\.nuget\\packages\\",
+      "outputPath": "D:\\AllCaseStudies\\Attendance\\Simple Attendance Tracking\\Simple Attendance Tracking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dola Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP-MCC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7547,6 +7547,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7606,19 +7607,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.25, 8.0.25]"
+            "version": "[8.0.26, 8.0.26]"
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.25, 8.0.25]"
+            "version": "[8.0.26, 8.0.26]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.25, 8.0.25]"
+            "version": "[8.0.26, 8.0.26]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.25, 8.0.25]"
+            "version": "[8.0.26, 8.0.26]"
           }
         ],
         "frameworkReferences": {
@@ -7629,7 +7630,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
