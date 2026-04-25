@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simple Attendance Tracking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acf33c9b362da3c43d051bc6061709f769684a6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08e552d3c207537c18d7777155e25d6bd2abb82d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simple Attendance Tracking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simple Attendance Tracking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

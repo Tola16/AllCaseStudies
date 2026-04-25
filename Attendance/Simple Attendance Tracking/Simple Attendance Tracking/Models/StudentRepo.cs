@@ -5,9 +5,9 @@ namespace Simple_Attendance_Tracking.Models
     public class StudentRepo : IStudent
     {
         public readonly Context c;
-        public StudentRepo()
+        public StudentRepo(Context _c)
         {
-            c = new Context();
+            c = _c;
         }
         public List<Student> GetAll()
         {

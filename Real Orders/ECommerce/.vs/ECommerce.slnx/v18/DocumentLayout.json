@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce\\Views\\Order\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55908FA2-5146-4784-87E5-44E5B50A6C4F}|ECommerce\\ECommerce.csproj|d:\\allcasestudies\\real orders\\ecommerce\\ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55908FA2-5146-4784-87E5-44E5B50A6C4F}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55908FA2-5146-4784-87E5-44E5B50A6C4F}|ECommerce\\ECommerce.csproj|d:\\allcasestudies\\real orders\\ecommerce\\ecommerce\\repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55908FA2-5146-4784-87E5-44E5B50A6C4F}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\repositories\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce\\Views\\Order\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce\\Views\\Order\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce\\Views\\Order\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55908FA2-5146-4784-87E5-44E5B50A6C4F}|ECommerce\\ECommerce.csproj|d:\\allcasestudies\\real orders\\ecommerce\\ecommerce\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55908FA2-5146-4784-87E5-44E5B50A6C4F}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55908FA2-5146-4784-87E5-44E5B50A6C4F}|ECommerce\\ECommerce.csproj|d:\\allcasestudies\\real orders\\ecommerce\\ecommerce\\repositories\\implementations\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55908FA2-5146-4784-87E5-44E5B50A6C4F}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\repositories\\implementations\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 222,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerce\\Views\\Order\\Details.cshtml",
+              "ToolTip": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "ECommerce\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T09:26:27.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Repositories\\Implementations\\OrderRepository.cs",
+              "ToolTip": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Repositories\\Implementations\\OrderRepository.cs",
+              "RelativeToolTip": "ECommerce\\Repositories\\Implementations\\OrderRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T09:23:01.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ECommerce\\Views\\Order\\Delete.cshtml",
+              "ToolTip": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "ECommerce\\Views\\Order\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T09:20:06.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ECommerce\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "ECommerce\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T09:19:05.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Repositories\\Implementations\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Repositories\\Implementations\\OrderItemRepository.cs",
+              "ToolTip": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Repositories\\Implementations\\OrderItemRepository.cs",
+              "RelativeToolTip": "ECommerce\\Repositories\\Implementations\\OrderItemRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:58:12.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "ECommerce\\Views\\Order\\Create.cshtml",
+              "ToolTip": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "ECommerce\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwDYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T08:48:51.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "ECommerce\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "ECommerce\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:39:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\AllCaseStudies\\Real Orders\\ECommerce\\ECommerce\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAmwGUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T08:39:41.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

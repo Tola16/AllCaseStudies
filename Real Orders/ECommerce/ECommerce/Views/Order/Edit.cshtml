@@ -1,0 +1,55 @@
+﻿@model ECommerce.ViewModels.OrderViewModel
+
+<form asp-action="Edit">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="CustomerId" class="control-label"></label>
+        <select asp-for="CustomerId" class="form-control"
+                asp-items="@(new SelectList(Model.Customers,
+                                            "CustomerId", "Name"))">
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="OrderDate" class="control-label"></label>
+        <input asp-for="OrderDate" class="form-control" />
+        <span asp-validation-for="OrderDate" class="text-danger"></span>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Product Price</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.AllOrderItems.Count(); i++)
+            {
+                <tr>
+                    <input asp-for="AllOrderItems[i].ProductId"
+                           type="hidden" />
+                    <input asp-for="AllOrderItems[i].UnitPrice"
+                           type="hidden" />
+
+                    <td>
+                        @Model.AllOrderItems.ElementAt(i).Product.Name
+                    </td>
+                    <td>
+                        @Model.AllOrderItems.ElementAt(i).Product.Price
+                    </td>
+                    <td>
+                        <input asp-for="AllOrderItems[i].Quantity"
+                               type="number" class="form-control" min="0" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>

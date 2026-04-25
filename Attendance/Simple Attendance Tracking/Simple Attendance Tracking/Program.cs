@@ -1,4 +1,4 @@
-using Microsoft.EntityFrameworkCore; 
+using Microsoft.EntityFrameworkCore;
 using Simple_Attendance_Tracking.Models;
 
 namespace Simple_Attendance_Tracking
@@ -9,13 +9,15 @@ namespace Simple_Attendance_Tracking
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
+
+
+            builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<Context>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("Conn")));
             builder.Services.AddDbContext<Context>();
             builder.Services.AddScoped<IStudent, StudentRepo>();
             builder.Services.AddScoped<IAttendance, AttendanceRepo>();
             builder.Services.AddScoped<ISubject, SubjectRepo>();
-
-
-            builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
 
